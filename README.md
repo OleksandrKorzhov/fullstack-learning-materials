@@ -2,6 +2,9 @@
 
 Repo contains learning maretials for full stack developers
 
+## Ops
+- [Deployment strategies](https://thenewstack.io/deployment-strategies/)
+
 ## Kubernetes
 
 ### Articles and learning materials
