@@ -11,3 +11,6 @@ Repo contains learning maretials for full stack developers
 
 ### Interactive resources
 - [Kodota](https://www.katacoda.com/)
+
+### Tools
+- [Minicube](https://minikube.sigs.k8s.io/docs/)
