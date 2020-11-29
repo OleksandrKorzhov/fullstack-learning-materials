@@ -7,6 +7,11 @@ Repo contains learning maretials for full stack developers
 ### Lists of tools
 - [Javascript toolbox](http://danburzo.github.io/toolbox/)
 
+## Node.js
+
+### Guidelines
+- [Node best practices](https://github.com/goldbergyoni/nodebestpractices)
+
 ## Ops
 - [Deployment strategies](https://thenewstack.io/deployment-strategies/)
 
