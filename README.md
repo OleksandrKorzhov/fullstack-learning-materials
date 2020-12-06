@@ -29,3 +29,6 @@ Repo contains learning maretials for full stack developers
 
 ### Tools
 - [Minicube](https://minikube.sigs.k8s.io/docs/)
+
+## Data structures
+- [Streaming data structures](https://gist.github.com/debasishg/8172796)
