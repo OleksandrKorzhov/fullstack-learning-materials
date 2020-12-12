@@ -79,7 +79,7 @@ Repo contains learning maretials for full stack developers
 
 ## Design patterns
 
-// TIP
+// TIP \n
 // Types of patterns
 // ===== Software design patterns ====
 // GOF design patterns
