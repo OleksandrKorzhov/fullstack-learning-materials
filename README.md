@@ -66,7 +66,10 @@ Repo contains learning maretials for full stack developers
 ## Microservices
 - [Microservices for beginers](https://developer.ibm.com/videos/microservices-for-beginners/)
 
-## Data structures
+## Data structures and algorithms
 - [Data structures and algorithms implementation in JS](https://github.com/trekhleb/javascript-algorithms)
 - [Streaming data structures](https://gist.github.com/debasishg/8172796)
 - [Data structures overview + deeper look articles](https://www.geeksforgeeks.org/data-structures/)
+
+### Books
+- [JavaScript algorithms](https://www.newline.co/javascript-algorithms)
