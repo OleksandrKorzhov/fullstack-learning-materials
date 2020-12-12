@@ -46,6 +46,7 @@ Repo contains learning maretials for full stack developers
 - [Kubernetes + Docker + Node.js example](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
 - [IBM Developer - Kubernetes](https://developer.ibm.com/components/kubernetes/)
 - The Node.js Developer’s Guide To Kubernetes. [Part I](https://cloudplex.io/tutorial/the-node-js-developers-guide-to-kubernetes-part-i/). [Part II](https://cloudplex.io/tutorial/the-node-js-developers-guide-to-kubernetes-part-ii/)
+- [Series of articles from CloudPlex](https://cloudplex.io/blog/)
 
 ## Microservices
 - [Microservices for beginers](https://developer.ibm.com/videos/microservices-for-beginners/)
