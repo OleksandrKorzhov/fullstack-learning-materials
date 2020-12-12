@@ -79,7 +79,8 @@ Repo contains learning maretials for full stack developers
 
 ## Design patterns
 
-// TIP \n
+```javascript
+// TIP
 // Types of patterns
 // ===== Software design patterns ====
 // GOF design patterns
@@ -99,6 +100,7 @@ Repo contains learning maretials for full stack developers
 // Microservice patterns
 // Messaging patterns
 // DB patterns
+```
 
 - [Design patterns - GOF](https://refactoring.guru/design-patterns)
 - [React - design principles](https://reactjs.org/docs/design-principles.html)
