@@ -2,12 +2,27 @@
 
 Repo contains learning maretials for full stack developers
 
+## GraphQL
+
+### Books
+- [Fullstack GraphQL](https://www.newline.co/fullstack-graphql)
+
 ## Javascript
 
 ### Lists of tools
 - [Javascript toolbox](http://danburzo.github.io/toolbox/)
 
+## React.js/ReactNative
+
+### Books
+- [Fullstack React](https://www.newline.co/fullstack-react)
+- [Fullstack React with Typescript](https://www.newline.co/fullstack-react-with-typescript)
+- [Fullstack ReactNative](https://www.newline.co/fullstack-react-native/)
+
 ## Node.js
+
+### Books
+- [Fullstack Node.js](https://www.newline.co/fullstack-nodejs)
 
 ### Guidelines
 - [Node best practices](https://github.com/goldbergyoni/nodebestpractices)
