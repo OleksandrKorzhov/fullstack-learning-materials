@@ -14,6 +14,9 @@ Repo contains learning maretials for full stack developers
 
 ## React.js/ReactNative
 
+### Guides
+- [All in one guide to react-native](https://www.reactnative.express/)
+
 ### Books
 - [Fullstack React](https://www.newline.co/fullstack-react)
 - [Fullstack React with Typescript](https://www.newline.co/fullstack-react-with-typescript)
@@ -73,3 +76,30 @@ Repo contains learning maretials for full stack developers
 
 ### Books
 - [JavaScript algorithms](https://www.newline.co/javascript-algorithms)
+
+## Design patterns
+
+// TIP
+// Types of patterns
+// ===== Software design patterns ====
+// GOF design patterns
+// Martin Fawler Patterns (Pattern of enterprise applications)
+// Asynchronous programming patterns (lock/await/producer-consumer)
+//    - threading
+//        - asynchronous primitives
+//    - single threaded asynchronous programming (event loop pattern)
+//        - asynchronous primitives
+// Platform/Framework specific patterns
+//    - browser specific patterns (module loading/code spliting/messaging)
+//    - node.js specific patterns
+//    - React specific patterns
+//    - VueJS specific patterns
+//    - Angualr specific patterns
+// ==== System design patterns ====
+// Microservice patterns
+// Messaging patterns
+// DB patterns
+
+- [Design patterns - GOF](https://refactoring.guru/design-patterns)
+- [React - design principles](https://reactjs.org/docs/design-principles.html)
+- [React - design patterns](https://reactpatterns.com/)
