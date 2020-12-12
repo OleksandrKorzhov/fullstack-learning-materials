@@ -33,7 +33,7 @@ Repo contains learning maretials for full stack developers
 - [Kubernetes docs](https://kubernetes.io/)
 - [Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
 - [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-- [Kubernetes Learning Path](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf) - learning tutorial created from Azure docs
+- [Kubernetes Learning Path](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf) learning tutorial created from Azure docs
 - [LearnK8S](https://learnk8s.io/)
 
 ### Interactive resources
@@ -45,6 +45,7 @@ Repo contains learning maretials for full stack developers
 ### UNDER CONSIDERATION
 - [Kubernetes + Docker + Node.js example](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
 - [IBM Developer - Kubernetes](https://developer.ibm.com/components/kubernetes/)
+- The Node.js Developer’s Guide To Kubernetes. [Part I](https://cloudplex.io/tutorial/the-node-js-developers-guide-to-kubernetes-part-i/). [Part II](https://cloudplex.io/tutorial/the-node-js-developers-guide-to-kubernetes-part-ii/)
 
 ## Microservices
 - [Microservices for beginers](https://developer.ibm.com/videos/microservices-for-beginners/)
