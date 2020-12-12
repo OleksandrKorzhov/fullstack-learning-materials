@@ -15,6 +15,18 @@ Repo contains learning maretials for full stack developers
 ## Ops
 - [Deployment strategies](https://thenewstack.io/deployment-strategies/)
 
+### Node.js + Docker
+- [Node.js dockerisation best practices](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
+
+### DevOps
+- [100 days of DevOps. Website](http://100daysofdevops.com)
+- [100 days of DevOps. Github repo](https://github.com/100daysofdevops/100daysofdevops)
+- [21 days of AWS + Terraform. Articles](http://100daysofdevops.com/category/21_days_aws_using_terraform/)
+- [21 days of AWS + Terraform. Github repo](https://github.com/100daysofdevops/21_days_of_aws_using_terraform)
+- [21 days of Docker. Medium](https://medium.com/@devopslearning/21-days-of-docker-day-21-25875a8e3232)
+- [21 days of Docker. Articles](http://100daysofdevops.com/21-days-of-docker-day-21/)
+- [21 days of Docker. Github repo](https://github.com/100daysofdevops/21_Days_of_Docker)
+
 ## Kubernetes
 
 ### Articles and learning materials
@@ -29,6 +41,13 @@ Repo contains learning maretials for full stack developers
 
 ### Tools
 - [Minicube](https://minikube.sigs.k8s.io/docs/)
+
+### UNDER CONSIDERATION
+- [Kubernetes + Docker + Node.js example](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
+- [IBM Developer - Kubernetes](https://developer.ibm.com/components/kubernetes/)
+
+## Microservices
+- [Microservices for beginers](https://developer.ibm.com/videos/microservices-for-beginners/)
 
 ## Data structures
 - [Streaming data structures](https://gist.github.com/debasishg/8172796)
