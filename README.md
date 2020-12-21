@@ -2,6 +2,11 @@
 
 Repo contains learning maretials for full stack developers
 
+## Learning sources
+- [AWS Academy](https://aws.amazon.com/training/awsacademy/)
+- [JetBrains Academy](https://www.jetbrains.com/academy/)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
 ## GraphQL
 
 ### Books
