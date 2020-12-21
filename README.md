@@ -15,6 +15,7 @@ Repo contains learning maretials for full stack developers
 ## Frontend
 
 - [Micro frontends](https://micro-frontends.org)
+- [Module Federation](https://survivejs.com/webpack/output/module-federation/)
 
 ## React.js/ReactNative
 
