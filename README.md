@@ -12,6 +12,10 @@ Repo contains learning maretials for full stack developers
 ### Lists of tools
 - [Javascript toolbox](http://danburzo.github.io/toolbox/)
 
+## Frontend
+
+- [Micro frontends](https://micro-frontends.org)
+
 ## React.js/ReactNative
 
 ### Guides
