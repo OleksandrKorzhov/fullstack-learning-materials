@@ -78,6 +78,7 @@ Repo contains learning maretials for full stack developers
 
 ## Microservices
 - [Microservices for beginers](https://developer.ibm.com/videos/microservices-for-beginners/)
+- [Testing of microservices (Martin Fawler)](https://martinfowler.com/articles/microservice-testing/)
 
 ## Data structures and algorithms
 - [Data structures and algorithms implementation in JS](https://github.com/trekhleb/javascript-algorithms)
