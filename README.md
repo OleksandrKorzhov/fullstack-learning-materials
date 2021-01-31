@@ -116,3 +116,10 @@ Repo contains learning maretials for full stack developers
 - [Design patterns - GOF](https://refactoring.guru/design-patterns)
 - [React - design principles](https://reactjs.org/docs/design-principles.html)
 - [React - design patterns](https://reactpatterns.com/)
+
+## Git
+
+- [Rebase Flow. Способ приготовления и его поддержка в GitHub, GitLab, BitBucket](https://habr.com/ru/company/at_consulting/blog/283326/)
+- [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+- [**git rebase** tooling in JetBrains IDE](https://www.jetbrains.com/help/webstorm/edit-project-history.html)
