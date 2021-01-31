@@ -123,8 +123,9 @@ Repo contains learning maretials for full stack developers
 - [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
 - [**git rebase** tooling in JetBrains IDE](https://www.jetbrains.com/help/webstorm/edit-project-history.html)
-- [][https://www.atlassian.com/git/tutorials/merging-vs-rebasing](Merging vs. Rebasing)
+- \*[Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+- \*[Git team workflows: merge or rebase?](https://www.atlassian.com/git/articles/git-team-workflows-merge-or-rebase)
 
 ### Tools
 
--[Hub](https://hub.github.com/)
+- [Hub](https://hub.github.com/)
